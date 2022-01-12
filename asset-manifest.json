@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HowManyRocks/static/css/main.073c9b0a.css",
+    "main.js": "/HowManyRocks/static/js/main.031cc4b1.js",
+    "static/js/787.2b8217d4.chunk.js": "/HowManyRocks/static/js/787.2b8217d4.chunk.js",
+    "index.html": "/HowManyRocks/index.html",
+    "main.073c9b0a.css.map": "/HowManyRocks/static/css/main.073c9b0a.css.map",
+    "main.031cc4b1.js.map": "/HowManyRocks/static/js/main.031cc4b1.js.map",
+    "787.2b8217d4.chunk.js.map": "/HowManyRocks/static/js/787.2b8217d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.031cc4b1.js"
+  ]
+}
